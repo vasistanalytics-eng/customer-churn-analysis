@@ -15,7 +15,7 @@ Analyze customer churn behavior and identify key drivers of attrition in a subsc
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard_main.png)
+![Dashboard](dashboard_main.png)
 
 ## Project Files
 
